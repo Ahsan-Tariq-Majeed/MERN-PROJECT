@@ -1,0 +1,28 @@
+#main-about {
+    padding: 0x;
+    border: 150px solid white;
+    color: black;
+    justify-content: center;
+}
+
+#heading {
+    text-align: center;
+    padding-bottom: 0;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.about-heading {
+    color: black;
+    font-size: 50px;
+}
+
+#about-content {
+    top: 1150%;
+    float: left;
+    width: 2000px;
+    padding-left: 110px;
+    text-align: justify;
+    justify-content: center;
+    font-size: 20px;
+}
